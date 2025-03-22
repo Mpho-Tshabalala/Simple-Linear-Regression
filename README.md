@@ -1,7 +1,7 @@
 <h1>Simple Linear Regression</h1>
 
 <h2>Description</h2>
-Simple linear reagression on the relationship between the age of a particular client and the charges they will pay<br />
+Simple linear reagression on the relationship between the age of a particular client and the charges they will pay on their insurance charges.<br />
 
 <h2>Languages and Utilities Used</h2>
 
